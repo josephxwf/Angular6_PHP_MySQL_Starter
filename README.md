@@ -1,1 +1,1 @@
-# Angular6_PHP_MySQL
+# This is a stater project for Angular6_PHP_MySQL
